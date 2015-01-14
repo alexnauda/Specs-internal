@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         =  'AWSiOSSDK'
-  s.version      =  '1.7.1osx1'
+  s.version      =  '1.7.2osx1'
   s.license      =  'Apache License, Version 2.0'
   s.summary      =  'Amazon Web Services SDK for iOS.'
   s.homepage     =  'http://aws.amazon.com/sdkforios'
